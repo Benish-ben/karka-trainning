@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    text-align: center;
+    font-size: 40px;
+    border: 1px solid red;
+    background-color: aqua;
+    padding: 20px 0px;
+    border: none;
+    margin: 5px;
+    
+    
+}
+nav{
+    text-align: center;
+    font-size: 40px;
+    border: 1px solid rgb(6, 6, 6);
+    background-color: rgb(113, 149, 238);
+    padding: 20px 0px;
+    margin: 5px;
+
+}
+.main{
+    background-color: aquamarine;
+    display: inline-block;
+    width: 797px;
+    text-align: center;
+    padding: 242px 0px;
+    margin-right: 5px;
+}
+.over-section{
+    display: inline-block;
+    width: 1032px;
+    text-align: center;
+    vertical-align: top;
+}
+.aside{
+    border: 1px solid black;
+    padding: 113px 200px;
+    background-color: darkmagenta;
+    margin: 5px;
+}
+.sec{
+    border: 1px solid black;
+    padding: 113px 200px;
+    background-color: blanchedalmond;
+
+}

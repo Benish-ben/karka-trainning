@@ -1,0 +1,55 @@
+.header{
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+    
+}
+.header h1{
+    text-align: center;
+}
+.nav-bar{
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+}
+.nav-bar h1{
+    text-align: center;
+}
+.main{
+    width:49%;
+    height: 433px;
+    border: 1px solid black;
+}
+.main h1{
+    text-align: center;
+    margin-top: 175px;
+}
+.aside{
+    margin-left: 900px;
+    width: 51%;
+    border: 1px solid black;
+    margin-top: -436px;
+    height: 210px;
+}
+.aside h1{
+    text-align: center;
+    margin-top: 70px;
+}
+.section{
+    margin-left: 900px;
+    height: 210px;
+    width:51%;
+    border: 1px solid black;
+}
+.section h1{
+    margin-top: 70px;
+    text-align: center;
+} 
+
+}
+
+
+
+    
+    
+    
