@@ -1,0 +1,31 @@
+body{
+    background-color: gainsboro;
+    height: 100vh;
+    width: 100%;
+}
+.right-section{
+    margin-left: 350px;
+}
+.left-section{
+    margin-left: 100px;
+}
+.section{
+    margin-left: 100px;
+}
+.header{
+    height: 40vh;
+}
+.box1{
+    width: 24%;
+    height: 30vh;
+}
+.box2{
+    width: 24%;
+}
+.box3{
+    width: 24%;
+}
+.box4{
+    width: 24%;
+}
+

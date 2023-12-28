@@ -1,0 +1,168 @@
+.background{
+    background-image: url('photo.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 950px;
+    /* padding: 100px; */
+    /* font-size: 90px; */
+    margin: auto;
+     
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.back{
+    background-image: url('groups.jpg');
+    height: 665px;
+    /* opacity: 88%; */
+    margin-top: 75px;
+    margin-left:64px;
+    width: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.div2{
+    background-color: orange;
+    height: 730px;
+    width:100% ;
+}
+.card-img-top{
+    background-image: url(fantasy-2049567_640\ \(1\).jpg);
+    height: 528px;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    /* margin-left: 58px; */
+    opacity: 80%;
+    border-radius: 20px;
+}
+.image1{
+    background-image: url(fantasy-2049567_640\ \(1\).jpg);
+    height: 528px;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    margin-left: 58px;
+}
+.card-img-top h2{
+    padding-top: 208px;
+    padding-left: 88px;
+    color: white;
+    opacity: 100%;
+}
+/* .but{
+    border: none; */
+    /* margin-top: 217px; */
+    /* padding: -4px; */
+    /* width: 29%;
+    background-color: orange;
+    color: white;
+    border-radius: 10px; */
+    /* margin-top: 215px; */
+ /* }  */
+.p1{
+    color: white;
+    padding-left: 98px;
+    font-size: 23px;
+}
+.p2{
+    color: white;
+    padding-left: 98px;
+    font-size: 23px;
+
+}
+.black{
+    background-color: black;
+    height: 746px;
+    width: 88%;
+    opacity: 50%;
+    margin-left: 183px;
+    /* padding-top: 31px; */
+    margin-top: 101px;
+    border-radius: 10px;
+}
+.p3{
+    padding-top: 37px;
+    text-align: center;
+    font-size: 25px;
+    /* color: aliceblue; */
+}
+.p4{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue; 
+}
+.p5{
+    margin-left: 20px;
+    font-size: 30px;
+    color: aliceblue;
+}
+.p6{
+    margin-top: 15px;
+    font-size: 20px;
+    color: orange;
+    margin-left: 230px;
+}
+hr{
+    color: aliceblue;
+}
+.p7{
+    margin-left: 20px;
+}
+.p10{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 130px;
+    color: aliceblue;
+    display: inline-block;
+}
+.p11{
+    color: orange;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 34px;
+}
+.but{
+    margin-top: 10px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    width: 58%;
+    padding: 3px;
+    border: none;
+}
+.p12{
+    margin-left: 173px;
+    margin-top: 14px;
+    font-size: 20px;
+    color: orange;
+}
+.div5-background{
+    background-color: #7c5c52;
+    height: 730px;
+    width: 100%;
+}
+.butto{
+    background-color: orange;
+    width: 62%;
+    border: none;
+    border-radius: 10px;
+    padding: 7px;
+    font-size: 22px;
+    color: white;
+    margin-top: 201px;
+   
+}
+/* .div5-img{
+    height: 50px;
+    width: 40%;
+
+} */
+
+
+
+
+
+   
+

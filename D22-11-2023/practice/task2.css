@@ -1,0 +1,11 @@
+.main{
+    background-color: blue;
+    width: 10%;
+    height: 154px;
+    display: flex;
+    align-items: center;
+}
+/* .main h1{
+    padding-top: 50px;
+    margin-left: 20px;
+} */

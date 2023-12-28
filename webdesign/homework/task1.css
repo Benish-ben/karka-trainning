@@ -1,0 +1,47 @@
+.topsection{
+    background-color: black;
+    height: 199vh;
+    width: 100%;
+    padding-top: 5px;
+}
+.topsection h2{
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    /* font-size: 19px; */
+    font-size: 36px;
+
+}
+.topsection p{
+    color: white;
+    text-align: center;
+    /* font-size: 30px; */
+    margin-right: 172px;
+    font-size: 24px;
+    /* padding: 0px; */
+}
+
+.box1{
+    height: 126vh;
+    width: 33%;
+    background-color: rgb(163, 28, 28);
+    /* padding: 78px; */
+    /* padding: 47px 64px 67px; */
+    margin-left: 35px;
+    margin-top: 57px;
+}
+.box1 img{
+    height: 273px;
+    width: 100%;
+}
+.box1 h3{
+    color: wheat;
+    font-size: 28px;
+
+    margin-left: 196px;
+}
+.button{
+    margin-left: 198px;
+    font-size: 20px;
+    border-style: dashed;
+}

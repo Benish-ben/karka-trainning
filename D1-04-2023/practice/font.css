@@ -1,0 +1,24 @@
+.para{
+    color: rgb(184, 13, 236);
+}
+#para{
+    color: rgb(168, 52, 3);
+}
+.div{
+    color: rgb(10, 182, 61);
+}
+/* *{
+    background-color: aqua;
+} */
+.head{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+    line-height: 1.5;
+    text-decoration: underline;
+
+}
+.section{
+    text-align: center;
+}

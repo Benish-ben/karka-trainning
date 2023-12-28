@@ -1,0 +1,31 @@
+.top-section{
+    background-color: rgb(126, 194, 24);
+    height: 514px;
+    width: 50%;
+    display: inline-block;
+}
+h2{
+    margin-left: 100px;
+    padding-top: 60px;
+    font-size: 30px;
+    
+}
+p{
+    width: 373px;
+    margin-left: 94px;
+    font-size: 17px;
+}
+button{
+    margin-left: 94px;
+}
+.image{
+    display: inline-block;
+    background-color: rgb(126, 194, 24);
+    height: 286px;
+    width: 49%;
+    padding-top: 228px;
+    
+}
+.image img{
+    margin-left: 40px;
+}

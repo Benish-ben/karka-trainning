@@ -1,0 +1,109 @@
+.topbar{
+    background-color: rgb(32, 31, 31);
+   
+    width: 40%;
+    display: inline-block;
+}
+h2{
+    color: white;
+    margin-left: 60px;
+    padding-top: 20px;
+    font-style: italic;
+    
+    
+    
+}
+.sidebar{
+    display: inline-block;
+    background-color: rgb(32, 31, 31);
+    width: 59%;
+    padding-top: 47px;
+    height: 40px;
+}
+.sidebar li{
+    display: inline;
+    margin-left: 131px;
+}
+.sidebar li a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+   
+}
+
+.section{
+    height: 443px;
+    width: 40%;
+    background-color: rgb(69, 66, 66);
+    padding-top: 10px;
+    display: inline-block;
+}
+p{
+    color: white;
+    margin-left: 60px;
+    width: 556px;
+    font-size: 24px;
+}
+button{
+    margin-left:60px ;
+    background-color: orange;
+}
+.main{
+    background-color: rgb(69, 66, 66);
+    height: 453px;
+    width: 59%;
+
+    display: inline-block;
+    vertical-align: top;
+
+}
+.main img{
+   
+    height: 289px;
+    width: 638px;
+    margin-top: 59px;
+}
+.box1{
+    background-color: black;
+    height: 289px;
+    width: 454px;
+    margin-top: 15px;
+    margin-left: 60px;
+    display: inline-block;
+}
+.head{
+   color: black; 
+   
+}
+.head1{
+    color: black;
+    padding-top: 2px;
+}
+.para1{
+    color: black;
+    width: 467px;
+}
+
+.box2{
+    background-color: black;
+    height: 289px;
+    width: 454px;
+    margin-top: 15px;
+    margin-left: 60px;
+    display: inline-block;
+}
+
+   
+
+.head2{
+    color: black;
+    padding-top: 2px;
+    display: inline-block;
+}
+.para2{
+    color: black;
+    width: 467px;
+}
+
+
+

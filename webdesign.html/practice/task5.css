@@ -1,0 +1,139 @@
+.main {
+    
+    background-color: rgb(188 231 172);
+    display: flex;
+    padding: 30px 3%;
+    margin-top: 25px;
+}
+
+.main .content1 {
+    width: 50%;
+    padding-right: 0px;
+}
+
+.content1 h2 {
+    margin-bottom: 10px;
+    font-size: 40px;
+    /* background-color: greenyellow; */
+}
+
+.content1 p {
+    margin-top: 10px;
+    font-size: 20px;
+    width: 70%;
+}
+
+.content1 button {
+    margin-top: 30px;
+    border: none;
+    background-color: rgb(243, 242, 240);
+    color: rgb(12, 11, 11);
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.main-img{
+    width: 50%;
+    
+    
+}
+.main-img img{
+    width: 100%;
+   
+}
+.content2{
+    margin-left: 53px;
+    font-size: 29px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.para1 p{
+    width: 500px;
+}
+.para1{
+    display: inline-block;
+    margin-left: 131px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.para2 p{
+    width: 500px;
+}
+.para2{
+    display: inline-block;
+    margin-left: 131px;
+    margin-top: 30px;
+    font-size: 20px;
+    vertical-align: top;
+}
+ button {
+    margin-top: 30px;
+    border: none;
+    background-color: rgb(243, 242, 240);
+    color: rgb(12, 11, 11);
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.color{
+    background-color:rgb(234, 184, 92);
+    padding: 30px 3%;
+    margin-top: 90px;
+    
+}
+.color img{
+    margin-left: 20px;
+    /* padding: 22px; */
+    margin-top: 43px;
+    margin-bottom: 25px;
+    vertical-align: top;
+   
+}
+/* .picture{
+    display: inline-block;
+
+}
+.section{
+    display: inline-block; */
+/* } */
+.image{
+    /* background-color: aqua; */
+    padding-top: 10px;
+    display: inline-block;
+}
+.section{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 226px;
+    width: 360px;
+    margin-top: 59px;
+    font-size: 26px;
+}
+
+
+
+.image img{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 42px;
+
+}
+.nav{
+    background-color: rosybrown;
+    margin-top: 20px;
+}
+.nav-bar{
+    background-color: aqua;
+    margin-top: 40px;
+}
+
+/* .main5{
+    background-color: pink;
+} */
+
+
+
+    
+  

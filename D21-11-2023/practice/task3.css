@@ -1,0 +1,82 @@
+header{
+    background-color:rgb(183, 184, 184) ;
+    height: 180px;
+    color: white;
+}
+.full{
+    background-color:rgb(42, 46, 102) ;
+}
+header h2{
+    text-align: center;
+    padding-top: 70px;
+}
+nav{
+    background-color: rgb(240, 86, 143);
+    height: 130px;
+    color: white;
+    position: sticky;
+    top: 0px;
+}
+nav h2{
+    text-align: center;
+    padding-top: 50px;
+}
+.main1{
+    background-color: rgb(150, 187, 108);
+    height: 586px;
+    width: 54%;
+    margin-top: 20px;
+    display: inline-block;
+}
+h2{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+.main2{
+    background-color: rgb(1, 114, 189);
+    height: 215px;
+    margin-top: 43px;
+    margin: 20px;
+    
+}
+.head{
+    text-align: center;
+    padding-top: 80px;
+}
+.main3{
+    background-color: rgb(1, 114, 189);
+    height: 215px;
+    margin-top: 43px;
+    margin: 20px;
+  
+}
+.main4{
+    background-color: rgb(90, 158, 149);
+    height: 585px;
+    width: 42%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 65px;
+}
+.head1{
+    padding-top: 250px;
+}
+footer{
+    background-color: rgb(241, 102, 38);
+    height: 216px;
+    margin-top: 20px;
+    text-align: center;
+    /* padding-top: 30px; */
+
+}
+footer h2{
+    padding-top: 88px;
+}
+.full{
+    padding: 20px;
+}
+    
+
+

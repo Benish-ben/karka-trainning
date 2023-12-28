@@ -1,0 +1,5 @@
+num1=input("Enter the base")
+num2=input("Enter the height")
+b=int(num1)
+h=int(num2)
+print( 1/2 * b * h)

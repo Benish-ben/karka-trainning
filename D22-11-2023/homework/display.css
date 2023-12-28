@@ -1,0 +1,25 @@
+.main{
+    border: 3px solid black;
+    height: 450px;
+    width: 98.8%;
+    border-style: dotted;
+}
+.head{
+    margin-left: 20px;
+}
+.main1{
+    border: 2px solid black;
+    height: 300px;
+    margin: 20px;
+}
+.main2{
+    border: 2px solid red;
+    /* height: 100px; */
+    /* margin-top: 256px; */
+    margin: 20px;
+    
+}
+h2{
+    display: none;
+    padding: 50px;
+}

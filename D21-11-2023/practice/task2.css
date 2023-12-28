@@ -1,0 +1,24 @@
+.bg{
+    background-color: red;
+    /* position: absolute; */
+    
+
+}
+.para{
+    /* display: block; */
+    /* margin: 50px; */
+    padding:30px ;
+    background-color: blue;
+    display:inline-block;
+    /* display: none; */
+}
+.para1{
+    /* display: inline; */
+    margin: 50px;
+}
+.para2{
+    margin: 5px;
+}
+/* p{
+    background-color: aqua;
+} */

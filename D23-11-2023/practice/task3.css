@@ -1,0 +1,29 @@
+.main{
+    background-image: linear-gradient(darkblue,lightblue);
+    height: 940px;
+    width: 100%;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 90px;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 40px;
+    
+}
+.main1{
+    background-color: white;
+    height: 156px;
+    width: 30%;
+    margin-left: 634px;
+    border-radius: 20px;
+}
+
+
+
+   

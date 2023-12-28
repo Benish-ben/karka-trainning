@@ -1,0 +1,11 @@
+.img{
+    height: 800px;
+    width: 48%;
+    float: left;
+}
+.para{
+    width: 50%;
+    font-size: 25px;
+    color: rgb(1, 0, 0);
+    float: right;
+}

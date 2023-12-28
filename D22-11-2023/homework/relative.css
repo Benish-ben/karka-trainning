@@ -1,0 +1,30 @@
+.main{
+    border: 3px solid black;
+    height: 680px;
+    width: 98.8%;
+    border-style: dotted;
+}
+h3{
+    margin-left: 10px;
+    font-size: 30px;
+}
+.main1{
+    border: 3px solid green;
+    height: 500px;
+    width: 50%;
+    position:relative;
+    
+}
+p{
+    font-size: 20px;
+}
+.main2{
+    border: 3px solid green;
+    height: 300px;
+    width: 60%;
+    margin-top: 60px;
+    position: absolute;
+    right: 200px;
+    top: 30px;
+    
+}

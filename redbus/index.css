@@ -1,0 +1,26 @@
+.box1 {
+    border: 2px solid #d84e55;
+    height: 83px;
+    width: 107px;
+    border-radius: 10px;
+    background-color: #d84e55;
+    display: inline-block;
+    margin-top: 3px;
+    vertical-align: top;
+    margin-left: 96px;
+}
+.box{
+    display: inline-block;
+}
+.main{
+    display: inline-block;
+    
+}
+.main img{
+    margin-top: 10px;
+    height: 77px;
+    width: 117px;
+    margin-left: 240px;
+
+}
+

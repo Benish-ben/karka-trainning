@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: 'Open Sans', sans-serif !important;
+}
+.button{
+    border-radius: 10px;
+    background-color: blue;
+    color: wheat;
+}
+.but{
+    border-radius: 10px;
+    background-color: rgb(235, 220, 191);
+    color: orange;
+    width: 30%;
+}
+.h{
+    color: rgb(8, 8, 152);
+}
+.head{
+    color: rgb(8, 8, 152);
+
+}
+.butt{
+    border-radius: 10px;
+    background-color: rgb(4, 21, 107);
+}
+.butto{
+    border-radius: 10px;
+}
+.img{
+    width: 95%;
+}
+.para{
+    width: 20%;
+    margin: 0 auto;
+    color: rgb(240, 174, 51);
+    background-color: rgb(235, 220, 191);
+    border-radius: 10px;
+} 
+.para1{
+    width: 45%;
+}
+.photo{
+    width: 100%;
+}
+.para2{
+    border-radius: 10px;
+    background-color: rgb(235, 220, 191);
+    color: orange;
+    width: 40%;
+    margin: 0 auto;
+    margin-right: 342px;
+    text-align: center;
+}
+.click{
+    border-radius: 10px;
+    background-color: rgb(4, 21, 107);
+    width: 30%;
+    padding: 10px;
+}
+.bot{
+    border-radius: 10px;
+    background-color: rgb(235, 220, 191);
+    color: orange;
+    width: 10%;
+
+}
+.bg{
+    color: rgb(9, 9, 234);
+}

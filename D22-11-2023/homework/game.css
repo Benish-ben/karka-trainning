@@ -1,0 +1,144 @@
+header{
+    background-color: rgb(250, 166, 48);
+    height: 100px;
+    width: 100%;
+}
+.box1{
+    background-color: black;
+    height: 38px;
+    width: 12%;
+    margin-top: 17px;
+    /* margin-left: 10px; */
+    
+}
+.box2{
+    background-color: black;
+    height: 38px;
+    width: 12%;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.box3{
+    background-color: black;
+    height: 38px;
+    width: 12%;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.box4{
+    background-color: black;
+    height: 38px;
+    width: 12%;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.box5{
+    background-color: black;
+    height: 38px;
+    width: 12%;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.box6{
+    background-color: black;
+    height: 38px;
+    width: 12%;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.box7{
+    background-color: black;
+    height: 38px;
+    width: 12%;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.box8{
+    background-color: black;
+    height: 38px;
+    width: 12%;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.box9{
+    background-color: black;
+    height: 38px;
+    width: 12%;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.main{
+    display: flex;
+    
+}
+.box10{
+    background-color: rgb(250, 166, 48);
+    height: 610px;
+    width: 33%;
+    margin-top: 20px;
+    align-items: start;
+}
+ .box11{
+    background-color: rgb(250, 166, 48);
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.box12{
+    background-color: rgb(250, 166, 48);
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 10px; 
+}
+.main1{
+    clear: both;
+    width: 33.5%;
+    /* background-color: orange; */
+    height: 300px;
+}
+.main3{
+   
+    /* height: 300px; */
+    width: 33%;
+    margin-top: 20px;
+    align-items: end;
+    margin-left: 10px;
+}
+.main2{
+    display: flex;
+}
+.box13{
+    background-color: black;
+    height: 114px;
+    /* width: 20%; */
+}
+.box14{
+    background-color: black;
+    height: 114px;
+    margin-top: 10px;
+}
+.box15{
+    background-color: black;
+    height: 114px;
+    margin-top: 10px;
+}
+.box16{
+    background-color: black;
+    height: 114px;
+    margin-top: 10px;
+}
+.box17{
+    background-color: black;
+    height: 114px;
+    margin-top: 10px;
+}
+footer{
+    background-color: rgb(250, 166, 48);
+    height: 100px;
+    width: 100%;
+    margin-top: 20px; 
+}
+.container{
+    padding: 30px;
+
+}

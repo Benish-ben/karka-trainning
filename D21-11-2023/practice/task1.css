@@ -1,0 +1,40 @@
+.main{
+    border:3px solid black;
+    height:700px;
+    width:400px;
+    /* position: relative; */
+}
+.box1{
+    height:100px;
+    width:100px;
+    background-color: blue;
+    position:absolute;
+    /* bottom: 30px; */
+    /* display: none; */
+    /* bottom: 0px; */
+    /* right: 30px; */
+    /* top: 25px; */
+    /* bottom: 20px; */
+    /* left: 100px; */
+    /* right: 10px; */
+    
+}
+.box2{
+    height:100px;
+    width:100px;
+    background-color:red;
+    /* position: sticky; */
+    top:10px;
+    /* display: none; */
+    /* left: 160px; */
+    z-index: 50px;
+   
+}
+.box3{
+    height:100px;
+    width:100px;
+    background-color:yellow;
+    /* position: absolute; */
+    /* z-index: 60px; */
+}
+

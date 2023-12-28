@@ -1,0 +1,28 @@
+header{
+    padding: 20px 0px;
+    background-color: blue;
+    text-align: center;
+    font-size: 30px;
+}
+.side{
+    background-color: aqua;
+    display: inline-block;
+    height: 100vh;
+    width: 48%;
+    font-size: 36px;
+    text-align: center;
+    /* display: inline-block; */
+
+}
+.section{
+    display: inline-block;
+    background-color: blueviolet;
+    vertical-align: top;
+    width: 940px;
+    height: 56vh;
+    text-align: center;
+    font-size: 30px;
+}
+.main{
+    display: inline-block;
+}

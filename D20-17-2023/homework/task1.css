@@ -1,0 +1,19 @@
+body{
+    font-family: 'Mochiy Pop One', sans-serif !important;
+}
+
+
+.good{
+    margin-left: 260px;
+    width: 50%;
+}
+.background{
+    background-image: url('./parotta.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    padding: 100px;
+    font-size: 90px;
+    
+}
+
